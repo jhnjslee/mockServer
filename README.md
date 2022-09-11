@@ -5,8 +5,8 @@ I hope so...
 
 
 FrontEnd - Vue <br>
-BackEnd API server - Node js & Golang
-CI/CD - Github & Jenkins
-Observability - Elastic Kibana , Grafana , Prometheus
-DB - MongoDB
-Server - AWS 
+BackEnd API server - Node js & Golang <br>
+CI/CD - Github & Jenkins <br>
+Observability - Elastic Kibana , Grafana , Prometheus <br>
+DB - MongoDB <br>
+Server - AWS <br>
