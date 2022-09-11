@@ -4,7 +4,7 @@ This project will help How you constructing software architecture...
 I hope so...
 
 
-FrontEnd - Vue
+FrontEnd - Vue <br>
 BackEnd API server - Node js & Golang
 CI/CD - Github & Jenkins
 Observability - Elastic Kibana , Grafana , Prometheus
