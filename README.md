@@ -12,6 +12,9 @@ Ocestration - K8S (Openstack)
 CI/CD - CI:Github & CD:Jenkins <br>
 Observability - ELK , Grafana Prometheus <br>
 DB - MongoDB <br>
+
 Server - AWS <br>
+ㄴ>https://github.com/jhnjslee/swag_aws <br>
+
 MSA - Moleculer
 etc...
